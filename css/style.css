@@ -166,6 +166,9 @@ footer span{
         text-align: center;
         margin-bottom:60px;
     }
+    .banner .banner-text {
+        padding-top: 40px;
+    }
 
 }
 @media (min-width: 576px){
